@@ -69,3 +69,5 @@ streamlit run main.py
 ## 【参考・引用】
 
 1. [つくりながら学ぶ！AI アプリ開発入門 - LangChain & Streamlit による ChatGPT API 徹底活用](https://zenn.dev/ml_bear/books/d1f060a3f166a5)
+
+2. [サクッと始めるプロンプトエンジニアリング【LangChain / ChatGPT】](https://zenn.dev/umi_mori/books/prompt-engineer)
